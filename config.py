@@ -43,7 +43,7 @@ Just send any instagram username.
 
 For Example:
 <code>samantharuthprabhuoffl</code>
-<code>subin_p_s_</code>
+<code>panairicha</code>
 <code>_chill_manh_7</code>
 
 
